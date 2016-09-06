@@ -1,20 +1,4 @@
-name: David Rodolfo Tejeda
-favicon: null
-layout_spectrum: 0.49315
 typography_spectrum: 0.78131
-title: ' New Paradigm Culture Catalyst, Holistic Coaching and Consulting, Healer, Love Education Advocate'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#71A7FE'
@@ -26,4 +10,20 @@ color:
   lightness: 0.025564471259713173
   saturation: 0.03156898356974125
   rhythmicContrast: 0.6148641516920179
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.49315
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: David Rodolfo Tejeda
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: The Art of Creating A More Loving Culture
 purpose: []
